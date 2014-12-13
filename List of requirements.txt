@@ -1,0 +1,17 @@
+Goal of software
+Be able to track personal finances.
+Look ahead to view projected income / expenses
+Ability to add goals
+
+---List of Requirements---
+1. Must have a transaction register
+2. Must provide a graph showing income vs. expenses
+3. Must have ability to input and record income
+4. Must have ability to input and record expenses
+5. Will be coded in Microsoft Visual C#
+6. Run on desktop only
+7. Must have ability to predict incoming expenses
+8. Must be able to allow user-defined goals
+9. Must allow users to input money into buckets for goals
+10. Must be able to save transaction register externally
+11. Must be able to open a transaction register
